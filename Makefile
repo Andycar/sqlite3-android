@@ -1,7 +1,7 @@
 # http://www.sqlite.org/download.html
 
-SQLITE_VERSION  ?= 3470200
-SQLITE_YEAR     ?= 2024
+SQLITE_VERSION  ?= 3490100
+SQLITE_YEAR     ?= 2025
 
 SQLITE_BASENAME := sqlite-amalgamation-$(SQLITE_VERSION)
 
